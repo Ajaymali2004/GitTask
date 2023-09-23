@@ -1,5 +1,6 @@
 # GitTask
 Completing Task
+
 Task 0: Setup your local environment of git using git init
 (Use fetch origin commands and research about and complete the task)
 pull the main branch from the repo
